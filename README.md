@@ -1,7 +1,3 @@
-### Hi there 👋 I'm Carl - Looking for work!
-
-## Check out my projects, or connect with me on [LinkedIn!](https://www.linkedin.com/in/carlviberg/)
-
 <!--
 **rasPanda/rasPanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
